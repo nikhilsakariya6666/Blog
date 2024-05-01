@@ -1,6 +1,4 @@
 import React from "react";
-import Blog from "./component/Blog/blog";
-import Newblog from "./component/NewBlog/newblog";
 import Addblog from "./component/AddBlog/addblog";
 import Blogcard from "./component/BlogCard/blogcard";
 
